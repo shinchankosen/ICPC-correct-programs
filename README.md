@@ -13,6 +13,10 @@ kotamanegi_hint_kureya = [hint908](https://atcoder.jp/users/hint908) + [shinchan
 
 - hint908 D, E
 
+Hはhint908の方針をもとにshinchanが考察、実装して本番後にAC。
+
+Iはshinchanの考察・実装をもとにhint908が微修正をして本番後にAC。
+
 ## 結果
 
 7完5位
